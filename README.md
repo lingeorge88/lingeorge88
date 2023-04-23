@@ -1,5 +1,12 @@
+<h1 align="center"> George Lin - Full Stack Developer </h1>
 
-
+<div>
+  <p align="center">
+  <a href="https://www.instagram.com/glinsta_88/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/george-lin-504b57250/">Linkedin</a> •
+  <a href="mailto:lingeorge04@gmail.com">E-mail</a>
+  </p>
+</div>
 
 <p align="center"> 
   <a href="https://github.com/lingeorge88/github-readme-stats">

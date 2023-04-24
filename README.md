@@ -36,6 +36,6 @@
 
 <p align="center">
 
-<img src="https://github.com/lingeorge88/lingeorge88/blob/main/dino.gif" align="center" alt="dino_gif" />
+<img src="https://github.com/lingeorge88/lingeorge88/blob/main/dino.gif" align="center" width="200em" alt="dino_gif" />
 
 </p>

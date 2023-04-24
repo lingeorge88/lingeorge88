@@ -16,11 +16,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-NodeJS-339933?logo=nodejs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HANDLEBARS.JS-000000?logo=handlebarsjs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-HANDLEBARS.JS-000000?logo=handlebars.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  
 </p>
 
 <p align="center"> 

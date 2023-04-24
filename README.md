@@ -34,6 +34,8 @@
   </a>
 </p>
 
-<p>
-![Dinogif](https://github.com/lingeorge88/lingeorge88/blob/main/dino.gif)
+<p align="center">
+
+<img src="https://github.com/lingeorge88/lingeorge88/blob/main/dino.gif" align="center" alt="dino_gif" />
+
 </p>

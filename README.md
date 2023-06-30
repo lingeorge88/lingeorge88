@@ -35,7 +35,10 @@
 </p>
 
 <p align="center">
+<img src="https://www.codewars.com/users/lingeorge88/badges/large" align="center" max-width="100vw" alt="code_wars_badge" />
+  </p>
+<p align="center">
 
 <img src="https://github.com/lingeorge88/lingeorge88/blob/main/dino.gif" align="center" max-width="100vw" alt="dino_gif" />
-<img src="https://www.codewars.com/users/lingeorge88/badges/large" align="center" max-width="100vw" alt="code_wars_badge" />
+
 </p>

@@ -10,7 +10,11 @@
 
 <h2 align="center">About me</h2>
 
-<p align="center">Hello! My name is George, and I am in the process of becoming a fullstack developer, I'm currently enrolled in the University of Washington's coding bootcamp.  I am interested in learning new web technologies and implement them in my future projects, feel free to checkout my github repositories for a list of projects that I have worked on so far.  Feel free to reach out to me via my different social links! Thank you!</p>
+<p align="center">Front-end software developer procient in JavaScript, HTML, CSS, ReactJS, and GraphQL. Committed to building
+performant, clean, and responsive applications. Possesses 3 years of professional experience as a medical laboratory
+scientist, honing strong problem-solving abilities, meticulous attention to detail, and effective communication skills. Eager
+to leverage my experience and skillset to help achieve company goals and provide clients with exceptional digital
+solutions.</p>
 
 <h2 align="center">Languages</h2>
 <p align="center">

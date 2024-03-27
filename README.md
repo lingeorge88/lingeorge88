@@ -1,3 +1,4 @@
+<img src="https://github.com/lingeorge88/lingeorge88/blob/main/Banner.png" align="center" alt="Banner" />
 <h1 align="center"> George Lin - Full Stack Developer </h1>
 
 <div>

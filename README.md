@@ -1,15 +1,22 @@
 <div align="center">
-  <img src="https://github.com/lingeorge88/lingeorge88/blob/main/assets/githubAvatar.png" alt="Banner" style="max-width: 50%; height: auto;" />
+  <img src="https://github.com/lingeorge88/lingeorge88/blob/main/assets/githubAvatar.png" alt="Banner" width="600" height="auto" />
 </div>
 
 <h1 align="center"> George Lin - Full Stack Developer </h1>
-<div>
-  <p align="center">
-  <a href="https://www.instagram.com/george_lin88/">Instagram</a> •
-  <a href="https://www.linkedin.com/in/george-lin-504b57250/">Linkedin</a> •
-  <a href="mailto:lingeorge04@gmail.com">E-mail</a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/george-lin-504b57250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lingeorge04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/george_lin88/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/lingeorge88">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <h2 align="center">About me</h2>
 <p align="center">Front-end software developer proficient in JavaScript, HTML, CSS, ReactJS, and GraphQL. Committed to building

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lingeorge88/lingeorge88/blob/main/assets/githubAvatar.png" alt="Banner" style="max-width: 60%; height: auto;" />
+  <img src="https://github.com/lingeorge88/lingeorge88/blob/main/assets/githubAvatar.png" alt="Banner" style="max-width: 50%; height: auto;" />
 </div>
 
 <h1 align="center"> George Lin - Full Stack Developer </h1>

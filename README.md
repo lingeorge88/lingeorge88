@@ -22,14 +22,16 @@ solutions.</p>
 <!-- Core Languages -->
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
+
+<!-- Frameworks & Tools -->
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Express-404D59?logo=express&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Flask-092E20?logo=flask&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge"/>
 </p>
 
 

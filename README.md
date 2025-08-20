@@ -65,7 +65,7 @@
             <h3 style="margin: 0 0 8px 0; font-size: 16px;">📊 Trade Sight Dashboard</h3>
             <p style="margin: 0 0 12px 0; font-size: 12px; color: #586069;">Interactive analytics dashboard with React, MUI & Nivo charts</p>
             <div>
-              <a href="https://trade-sight-app.onrender.com/dashboard"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square" alt="Live Demo"/></a>
+              <a href="https://trade-sight-app.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square" alt="Live Demo"/></a>
               <a href="https://github.com/lingeorge88/trade-sight"><img src="https://img.shields.io/badge/View-Code-blue?style=flat-square" alt="GitHub"/></a>
             </div>
           </div>

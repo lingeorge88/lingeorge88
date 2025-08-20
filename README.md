@@ -2,7 +2,7 @@
   <img src="https://github.com/lingeorge88/lingeorge88/blob/main/assets/githubAvatar.png" alt="Banner" width="600" height="auto" />
 </div>
 
-<h1 align="center"> George Lin - Full Stack Developer </h1>
+<h1 align="center"> George Lin - Software Engineer | AI/ML Enthusiast </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/george-lin-504b57250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,11 +19,7 @@
 </p>
 
 <h2 align="center">About me</h2>
-<p align="center">Front-end software developer proficient in JavaScript, HTML, CSS, ReactJS, and GraphQL. Committed to building
-performant, clean, and responsive applications. Possesses 3 years of professional experience as a medical laboratory
-scientist, honing strong problem-solving abilities, meticulous attention to detail, and effective communication skills. Eager
-to leverage my experience and skillset to help achieve company goals and provide clients with exceptional digital
-solutions.</p>
+<p align="center">Computer Science graduate student transitioning from Medical Laboratory Science, specializing in full-stack development and AI-powered solutions. My unique healthcare background drives my passion for developing innovative technical solutions that solve real-world problems. Recent projects include production-deployed applications featuring semantic search, real-time data visualization, and secure authentication systems. Committed to leveraging my diverse perspective and technical skills to build impactful software at the intersection of technology and human needs.</p>
 
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">

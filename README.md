@@ -51,7 +51,7 @@
             <h3 style="margin: 0 0 8px 0; font-size: 16px;">Blue Current Trading</h3>
             <p style="margin: 0 0 12px 0; font-size: 12px; color: #586069;">AI-powered cryto currency trading platforms geared for individual investors.</p>
             <div>
-              <a href="https://rag-medlab-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square" alt="Live Demo"/></a>
+              <a href="https://bluecurrent-zy4p.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square" alt="Live Demo"/></a>
               <a href="https://github.com/lingeorge88/rag-chatbot"><img src="https://img.shields.io/badge/View-Code-blue?style=flat-square" alt="GitHub"/></a>
             </div>
           </div>

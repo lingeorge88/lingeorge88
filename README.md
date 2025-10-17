@@ -46,10 +46,10 @@
       <!-- Project 1: RAG Medical Chatbot -->
       <td style="padding: 10px; width: 33.33%; vertical-align: top;">
         <div style="border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #fff;">
-          <img src="https://github.com/lingeorge88/lingeorge88/blob/main/assets/ragchat.png" style="width: 100%; height: 150px; object-fit: cover;" alt="RAG Medical Chatbot"/>
+          <img src="https://github.com/lingeorge88/lingeorge88/blob/main/assets/BlueCurrent.png" style="width: 100%; height: 150px; object-fit: cover;" alt="RAG Medical Chatbot"/>
           <div style="padding: 15px;">
-            <h3 style="margin: 0 0 8px 0; font-size: 16px;">🤖 RAG Medical Chatbot</h3>
-            <p style="margin: 0 0 12px 0; font-size: 12px; color: #586069;">AI-powered document retrieval using LangChain, Pinecone & GPT-4</p>
+            <h3 style="margin: 0 0 8px 0; font-size: 16px;">Blue Current Trading</h3>
+            <p style="margin: 0 0 12px 0; font-size: 12px; color: #586069;">AI-powered cryto currency trading platforms geared for individual investors.</p>
             <div>
               <a href="https://rag-medlab-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square" alt="Live Demo"/></a>
               <a href="https://github.com/lingeorge88/rag-chatbot"><img src="https://img.shields.io/badge/View-Code-blue?style=flat-square" alt="GitHub"/></a>

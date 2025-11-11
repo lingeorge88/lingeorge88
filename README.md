@@ -20,7 +20,7 @@
 </p>
 
 <h2 align="center">About me</h2>
-<p align="center">Computer Science graduate student with a background in Medical Laboratory Science, specializing in full-stack development and AI-powered solutions. My unique healthcare background drives my passion for developing innovative technical solutions that solve real-world problems. Recent projects include production-deployed applications featuring semantic search, real-time data visualization, and secure authentication systems. Committed to leveraging my diverse perspective and technical skills to build impactful software at the intersection of technology and human needs.</p>
+<p align="center"> Computer Science graduate student with a background in Medical Laboratory Science, specializing in full-stack and backend development. Experienced in building scalable systems using Java, Spring Boot, Hibernate/JPA, and relational databases, as well as modern web applications with the MERN stack. My interdisciplinary foundation in healthcare fuels my drive to create AI-powered and data-driven solutions that improve real-world outcomes. Recent projects include production-deployed platforms featuring secure authentication, real-time analytics, and intelligent automation. Passionate about leveraging diverse technologies and perspectives to build impactful software at the intersection of technology and human needs. </p>
 
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
